@@ -1,0 +1,1805 @@
+{"commonItemResponseRoot": {
+    "itsaItems": {"item": {
+        "itemCosts": {"salesChannelCost": [
+            {
+                "costGroup": {
+                    "cost": [
+                        {
+                            "costStatus": "APPV",
+                            "shipPoint": 60416,
+                            "vendor": {
+                                "vendorTypeCode": "SUPP",
+                                "vendorNumber": 604
+                            },
+                            "costType": "CHBC",
+                            "shipPointType": "SUPP",
+                            "costAmount": 0
+                        },
+                        {
+                            "costStatus": "APPV",
+                            "shipPoint": 60416,
+                            "vendor": {
+                                "vendorTypeCode": "SUPP",
+                                "vendorNumber": 604
+                            },
+                            "costType": "EDIC",
+                            "shipPointType": "SUPP",
+                            "costAmount": 0
+                        },
+                        {
+                            "costStatus": "APPV",
+                            "shipPoint": 60416,
+                            "vendor": {
+                                "vendorTypeCode": "SUPP",
+                                "vendorNumber": 604
+                            },
+                            "costType": "LODC",
+                            "shipPointType": "SUPP",
+                            "costAmount": 20.25
+                        },
+                        {
+                            "costStatus": "APPV",
+                            "shipPoint": 60416,
+                            "vendor": {
+                                "vendorTypeCode": "SUPP",
+                                "vendorNumber": 604
+                            },
+                            "costType": "SUPC",
+                            "shipPointType": "SUPP",
+                            "costAmount": 20.25
+                        },
+                        {
+                            "costStatus": "APPV",
+                            "shipPoint": 60416,
+                            "vendor": {
+                                "vendorTypeCode": "SUPP",
+                                "vendorNumber": 604
+                            },
+                            "costType": "WPF",
+                            "shipPointType": "SUPP",
+                            "costAmount": 0
+                        }
+                    ],
+                    "startEffectiveDate": "2024-01-30T00:00:00",
+                    "endEffectiveDate": "9999-12-31T00:00:26.729",
+                    "countryOfOrigin": "PK",
+                    "USStates": {"USState": "AA"},
+                    "contractProcessingTypeCode": "IIMP"
+                },
+                "channelCode": "STR"
+            },
+            {
+                "costGroup": {
+                    "cost": [
+                        {
+                            "costStatus": "APPV",
+                            "shipPoint": 60416,
+                            "vendor": {
+                                "vendorTypeCode": "SUPP",
+                                "vendorNumber": 604
+                            },
+                            "costType": "CHBC",
+                            "shipPointType": "SUPP",
+                            "costAmount": 0
+                        },
+                        {
+                            "costStatus": "APPV",
+                            "shipPoint": 60416,
+                            "vendor": {
+                                "vendorTypeCode": "SUPP",
+                                "vendorNumber": 604
+                            },
+                            "costType": "EDIC",
+                            "shipPointType": "SUPP",
+                            "costAmount": 0
+                        },
+                        {
+                            "costStatus": "APPV",
+                            "shipPoint": 60416,
+                            "vendor": {
+                                "vendorTypeCode": "SUPP",
+                                "vendorNumber": 604
+                            },
+                            "costType": "LODC",
+                            "shipPointType": "SUPP",
+                            "costAmount": 20.25
+                        },
+                        {
+                            "costStatus": "APPV",
+                            "shipPoint": 60416,
+                            "vendor": {
+                                "vendorTypeCode": "SUPP",
+                                "vendorNumber": 604
+                            },
+                            "costType": "SUPC",
+                            "shipPointType": "SUPP",
+                            "costAmount": 20.25
+                        },
+                        {
+                            "costStatus": "APPV",
+                            "shipPoint": 60416,
+                            "vendor": {
+                                "vendorTypeCode": "SUPP",
+                                "vendorNumber": 604
+                            },
+                            "costType": "WPF",
+                            "shipPointType": "SUPP",
+                            "costAmount": 0
+                        }
+                    ],
+                    "startEffectiveDate": "2024-01-30T00:00:00",
+                    "endEffectiveDate": "9999-12-31T00:00:26.729",
+                    "countryOfOrigin": "PK",
+                    "contractProcessingTypeCode": "IIMP"
+                },
+                "channelCode": "DIR"
+            }
+        ]},
+        "itemAliases": {"salesChannelAlias": [
+            {
+                "aliases": {"alias": {
+                    "vendor": {
+                        "vendorTypeCode": "SUPP",
+                        "vendorNumber": 604
+                    },
+                    "itemAliasType": "PID",
+                    "itemAliasCode": "IX3722"
+                }},
+                "channelCode": "STR"
+            },
+            {
+                "aliases": {"alias": {
+                    "vendor": {
+                        "vendorTypeCode": "SUPP",
+                        "vendorNumber": 604
+                    },
+                    "itemAliasType": "PID",
+                    "itemAliasCode": "IX3722"
+                }},
+                "channelCode": "DIR"
+            }
+        ]},
+        "seasons": {"season": [
+            {
+                "seasonType": "SPRING TRANSITION 2024",
+                "mhNumber": 1,
+                "zeroOnhandDate": "0001-01-01",
+                "peakInventoryDate": "0001-01-01",
+                "lastMarkDownDate": "0001-01-01",
+                "seasonName": "SPRING TRANSITION 2024",
+                "mhTypeCode": "DIV",
+                "initialStrRecptDate": "0001-01-01",
+                "initialSetDate": "0001-01-01",
+                "seasonFiscalYear": 2023,
+                "channelCode": "STR"
+            },
+            {
+                "seasonType": "SPRING TRANSITION 2024",
+                "mhNumber": 1,
+                "zeroOnhandDate": "0001-01-01",
+                "peakInventoryDate": "0001-01-01",
+                "lastMarkDownDate": "0001-01-01",
+                "seasonName": "SPRING TRANSITION 2024",
+                "mhTypeCode": "DIV",
+                "initialStrRecptDate": "0001-01-01",
+                "initialSetDate": "0001-01-01",
+                "seasonFiscalYear": 2023,
+                "channelCode": "DIR"
+            },
+            {
+                "seasonType": "SPRING TRANSITION 2025",
+                "mhNumber": 1,
+                "zeroOnhandDate": "0001-01-01",
+                "peakInventoryDate": "0001-01-01",
+                "lastMarkDownDate": "0001-01-01",
+                "seasonName": "SPRING TRANSITION 2025",
+                "mhTypeCode": "DIV",
+                "initialStrRecptDate": "0001-01-01",
+                "initialSetDate": "0001-01-01",
+                "seasonFiscalYear": 2024,
+                "channelCode": "DIR"
+            },
+            {
+                "seasonType": "HOLIDAY 2024",
+                "mhNumber": 1,
+                "zeroOnhandDate": "0001-01-01",
+                "peakInventoryDate": "0001-01-01",
+                "lastMarkDownDate": "0001-01-01",
+                "seasonName": "HOLIDAY 2024",
+                "mhTypeCode": "DIV",
+                "initialStrRecptDate": "0001-01-01",
+                "initialSetDate": "0001-01-01",
+                "seasonFiscalYear": 2024,
+                "channelCode": "STR"
+            },
+            {
+                "seasonType": "HOLIDAY 2024",
+                "mhNumber": 1,
+                "zeroOnhandDate": "0001-01-01",
+                "peakInventoryDate": "0001-01-01",
+                "lastMarkDownDate": "0001-01-01",
+                "seasonName": "HOLIDAY 2024",
+                "mhTypeCode": "DIV",
+                "initialStrRecptDate": "0001-01-01",
+                "initialSetDate": "0001-01-01",
+                "seasonFiscalYear": 2024,
+                "channelCode": "DIR"
+            },
+            {
+                "seasonType": "SPRING TRANSITION 2025",
+                "mhNumber": 1,
+                "zeroOnhandDate": "0001-01-01",
+                "peakInventoryDate": "0001-01-01",
+                "lastMarkDownDate": "0001-01-01",
+                "seasonName": "SPRING TRANSITION 2025",
+                "mhTypeCode": "DIV",
+                "initialStrRecptDate": "0001-01-01",
+                "initialSetDate": "0001-01-01",
+                "seasonFiscalYear": 2024,
+                "channelCode": "STR"
+            }
+        ]},
+        "itemShipPoints": {"shipPoint": [
+            {
+                "shippingOptionCode": "S",
+                "vendor": {
+                    "vendorTypeCode": "SUPP",
+                    "vendorNumber": 604
+                },
+                "factoryShipLeadTimeUOM": "WEEKS",
+                "shipPointNumber": 60416,
+                "shipPointTypeCode": "SUPP",
+                "channelCode": "STR"
+            },
+            {
+                "shippingOptionCode": "S",
+                "vendor": {
+                    "vendorTypeCode": "SUPP",
+                    "vendorNumber": 604
+                },
+                "factoryShipLeadTimeUOM": "WEEKS",
+                "shipPointNumber": 60416,
+                "shipPointTypeCode": "SUPP",
+                "factoryShipLeadTimeQty": 0,
+                "channelCode": "DIR"
+            }
+        ]},
+        "brands": {"brand": {
+            "brandName": "ADIDAS",
+            "brandStatusCode": "ACTV",
+            "brandTypeCode": "N",
+            "startEffectiveDate": "2024-01-30T00:00:00.000",
+            "brandNumber": 1
+        }},
+        "itemLevelRelationships": {"relationshipDefinition": {
+            "relationshipType": "CTGY",
+            "relationshipNumber": 0
+        }},
+        "skus": {"sku": [
+            {
+                "skuOptions": {"option": [
+                    {
+                        "optionTypeCode": "SIZT",
+                        "optionAbbreviatedCode": "S",
+                        "optionNumber": 6,
+                        "optionStandardValueCode": 115,
+                        "optionDescription": "SMALL",
+                        "optionSequenceNumber": 6,
+                        "optionAttributes": {"optionAttribute": {
+                            "optionAttributeAbbreviatedCode": "S",
+                            "optionAttributeCode": 416,
+                            "optionAttributeLabelText": "SIZE",
+                            "optionAttributeRoleCode": "SIZE1",
+                            "optionAttributeValueCode": 115,
+                            "optionAttributeValuePropertyText": "SMALL"
+                        }},
+                        "optionStatusCode": "ACTV",
+                        "optionSubTypeCode": "SIZE"
+                    },
+                    {
+                        "optionTypeCode": "CLOT",
+                        "optionAbbreviatedCode": "SHADO",
+                        "optionNumber": 1,
+                        "optionDescription": "SHADOW BROWN",
+                        "optionSequenceNumber": 1,
+                        "optionAttributes": {"optionAttribute": [
+                            {
+                                "optionAttributeCode": "ITSA MINOR COLOR FAMILY",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "BROWN",
+                                "optionAttributeValuePropertyText": "SHADOW BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "PDB COLOR FAMILY",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "PATTERN NAME",
+                                "optionAttributeRoleCode": "PATTERN TYPE",
+                                "optionAttributeValueCode": "ANIMAL"
+                            },
+                            {
+                                "optionAttributeCode": "ITSA MAJOR COLOR FAMILY",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "PDB COLOR",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "SHADOW BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "PATTERN TYPE",
+                                "optionAttributeRoleCode": "PATTERN TYPE",
+                                "optionAttributeValueCode": "ANIMAL"
+                            }
+                        ]},
+                        "optionStatusCode": "ACTV",
+                        "optionSubTypeCode": "PDB COLOR TYPE"
+                    }
+                ]},
+                "skuDefintion": {
+                    "skuNumber": 67,
+                    "startEffectiveDate": "2024-01-30T00:00:00",
+                    "skuStatusCode": "ACTV",
+                    "skuDescription": "SHADOW BROWN SMALL",
+                    "skuStateCode": "ACTV",
+                    "ORINSkuNumber": 129903705
+                },
+                "skuAliases": {"salesChannelAlias": [
+                    {
+                        "aliases": {"alias": [
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "PID",
+                                "itemAliasCode": "IX3722",
+                                "aliasStatusCode": "ACTV"
+                            },
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "UPC",
+                                "itemAliasCode": 197607037031,
+                                "aliasStatusCode": "ACTV"
+                            }
+                        ]},
+                        "channelCode": "DIR"
+                    },
+                    {
+                        "aliases": {"alias": [
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "PID",
+                                "itemAliasCode": "IX3722",
+                                "aliasStatusCode": "ACTV"
+                            },
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "UPC",
+                                "itemAliasCode": 197607037031,
+                                "aliasStatusCode": "ACTV"
+                            }
+                        ]},
+                        "channelCode": "STR"
+                    }
+                ]},
+                "skuChannels": {"channel": [
+                    {
+                        "channelStatusCode": "ACTV",
+                        "channelDescription": "Stores",
+                        "startEffectiveDate": "2024-01-30T00:00:00",
+                        "channelStateCode": "ACTV",
+                        "channelCode": "STR"
+                    },
+                    {
+                        "channelStatusCode": "ACTV",
+                        "channelDescription": "Direct",
+                        "startEffectiveDate": "2024-01-30T00:00:00",
+                        "channelStateCode": "ACTV",
+                        "channelCode": "DIR"
+                    }
+                ]}
+            },
+            {
+                "skuOptions": {"option": [
+                    {
+                        "optionTypeCode": "SIZT",
+                        "optionAbbreviatedCode": "M",
+                        "optionNumber": 7,
+                        "optionStandardValueCode": 116,
+                        "optionDescription": "MEDIUM",
+                        "optionSequenceNumber": 7,
+                        "optionAttributes": {"optionAttribute": {
+                            "optionAttributeAbbreviatedCode": "M",
+                            "optionAttributeCode": 416,
+                            "optionAttributeLabelText": "SIZE",
+                            "optionAttributeRoleCode": "SIZE1",
+                            "optionAttributeValueCode": 116,
+                            "optionAttributeValuePropertyText": "MEDIUM"
+                        }},
+                        "optionStatusCode": "ACTV",
+                        "optionSubTypeCode": "SIZE"
+                    },
+                    {
+                        "optionTypeCode": "CLOT",
+                        "optionAbbreviatedCode": "SHADO",
+                        "optionNumber": 1,
+                        "optionDescription": "SHADOW BROWN",
+                        "optionSequenceNumber": 1,
+                        "optionAttributes": {"optionAttribute": [
+                            {
+                                "optionAttributeCode": "PATTERN NAME",
+                                "optionAttributeRoleCode": "PATTERN TYPE",
+                                "optionAttributeValueCode": "ANIMAL"
+                            },
+                            {
+                                "optionAttributeCode": "ITSA MINOR COLOR FAMILY",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "BROWN",
+                                "optionAttributeValuePropertyText": "SHADOW BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "PDB COLOR FAMILY",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "PATTERN TYPE",
+                                "optionAttributeRoleCode": "PATTERN TYPE",
+                                "optionAttributeValueCode": "ANIMAL"
+                            },
+                            {
+                                "optionAttributeCode": "ITSA MAJOR COLOR FAMILY",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "PDB COLOR",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "SHADOW BROWN"
+                            }
+                        ]},
+                        "optionStatusCode": "ACTV",
+                        "optionSubTypeCode": "PDB COLOR TYPE"
+                    }
+                ]},
+                "skuDefintion": {
+                    "skuNumber": 83,
+                    "startEffectiveDate": "2024-01-30T00:00:00",
+                    "skuStatusCode": "ACTV",
+                    "skuDescription": "SHADOW BROWN MEDIUM",
+                    "skuStateCode": "ACTV",
+                    "ORINSkuNumber": 129903704
+                },
+                "skuAliases": {"salesChannelAlias": [
+                    {
+                        "aliases": {"alias": [
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "PID",
+                                "itemAliasCode": "IX3722",
+                                "aliasStatusCode": "ACTV"
+                            },
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "UPC",
+                                "itemAliasCode": 197607040727,
+                                "aliasStatusCode": "ACTV"
+                            }
+                        ]},
+                        "channelCode": "DIR"
+                    },
+                    {
+                        "aliases": {"alias": [
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "PID",
+                                "itemAliasCode": "IX3722",
+                                "aliasStatusCode": "ACTV"
+                            },
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "UPC",
+                                "itemAliasCode": 197607040727,
+                                "aliasStatusCode": "ACTV"
+                            }
+                        ]},
+                        "channelCode": "STR"
+                    }
+                ]},
+                "skuChannels": {"channel": [
+                    {
+                        "channelStatusCode": "ACTV",
+                        "channelDescription": "Stores",
+                        "startEffectiveDate": "2024-01-30T00:00:00",
+                        "channelStateCode": "ACTV",
+                        "channelCode": "STR"
+                    },
+                    {
+                        "channelStatusCode": "ACTV",
+                        "channelDescription": "Direct",
+                        "startEffectiveDate": "2024-01-30T00:00:00",
+                        "channelStateCode": "ACTV",
+                        "channelCode": "DIR"
+                    }
+                ]}
+            },
+            {
+                "skuOptions": {"option": [
+                    {
+                        "optionTypeCode": "SIZT",
+                        "optionAbbreviatedCode": "L",
+                        "optionNumber": 8,
+                        "optionStandardValueCode": 117,
+                        "optionDescription": "LARGE",
+                        "optionSequenceNumber": 8,
+                        "optionAttributes": {"optionAttribute": {
+                            "optionAttributeAbbreviatedCode": "L",
+                            "optionAttributeCode": 416,
+                            "optionAttributeLabelText": "SIZE",
+                            "optionAttributeRoleCode": "SIZE1",
+                            "optionAttributeValueCode": 117,
+                            "optionAttributeValuePropertyText": "LARGE"
+                        }},
+                        "optionStatusCode": "ACTV",
+                        "optionSubTypeCode": "SIZE"
+                    },
+                    {
+                        "optionTypeCode": "CLOT",
+                        "optionAbbreviatedCode": "SHADO",
+                        "optionNumber": 1,
+                        "optionDescription": "SHADOW BROWN",
+                        "optionSequenceNumber": 1,
+                        "optionAttributes": {"optionAttribute": [
+                            {
+                                "optionAttributeCode": "PATTERN TYPE",
+                                "optionAttributeRoleCode": "PATTERN TYPE",
+                                "optionAttributeValueCode": "ANIMAL"
+                            },
+                            {
+                                "optionAttributeCode": "PATTERN NAME",
+                                "optionAttributeRoleCode": "PATTERN TYPE",
+                                "optionAttributeValueCode": "ANIMAL"
+                            },
+                            {
+                                "optionAttributeCode": "PDB COLOR",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "SHADOW BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "PDB COLOR FAMILY",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "ITSA MAJOR COLOR FAMILY",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "ITSA MINOR COLOR FAMILY",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "BROWN",
+                                "optionAttributeValuePropertyText": "SHADOW BROWN"
+                            }
+                        ]},
+                        "optionStatusCode": "ACTV",
+                        "optionSubTypeCode": "PDB COLOR TYPE"
+                    }
+                ]},
+                "skuDefintion": {
+                    "skuNumber": 109,
+                    "startEffectiveDate": "2024-01-30T00:00:00",
+                    "skuStatusCode": "ACTV",
+                    "skuDescription": "SHADOW BROWN LARGE",
+                    "skuStateCode": "ACTV",
+                    "ORINSkuNumber": 129903703
+                },
+                "skuAliases": {"salesChannelAlias": [
+                    {
+                        "aliases": {"alias": [
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "PID",
+                                "itemAliasCode": "IX3722",
+                                "aliasStatusCode": "ACTV"
+                            },
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "UPC",
+                                "itemAliasCode": 197607037062,
+                                "aliasStatusCode": "ACTV"
+                            }
+                        ]},
+                        "channelCode": "DIR"
+                    },
+                    {
+                        "aliases": {"alias": [
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "PID",
+                                "itemAliasCode": "IX3722",
+                                "aliasStatusCode": "ACTV"
+                            },
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "UPC",
+                                "itemAliasCode": 197607037062,
+                                "aliasStatusCode": "ACTV"
+                            }
+                        ]},
+                        "channelCode": "STR"
+                    }
+                ]},
+                "skuChannels": {"channel": [
+                    {
+                        "channelStatusCode": "ACTV",
+                        "channelDescription": "Direct",
+                        "startEffectiveDate": "2024-01-30T00:00:00",
+                        "channelStateCode": "ACTV",
+                        "channelCode": "DIR"
+                    },
+                    {
+                        "channelStatusCode": "ACTV",
+                        "channelDescription": "Stores",
+                        "startEffectiveDate": "2024-01-30T00:00:00",
+                        "channelStateCode": "ACTV",
+                        "channelCode": "STR"
+                    }
+                ]}
+            },
+            {
+                "skuOptions": {"option": [
+                    {
+                        "optionTypeCode": "SIZT",
+                        "optionAbbreviatedCode": "XL",
+                        "optionNumber": 9,
+                        "optionStandardValueCode": 118,
+                        "optionDescription": "X-LARGE",
+                        "optionSequenceNumber": 9,
+                        "optionAttributes": {"optionAttribute": {
+                            "optionAttributeAbbreviatedCode": "XL",
+                            "optionAttributeCode": 416,
+                            "optionAttributeLabelText": "SIZE",
+                            "optionAttributeRoleCode": "SIZE1",
+                            "optionAttributeValueCode": 118,
+                            "optionAttributeValuePropertyText": "X-LARGE"
+                        }},
+                        "optionStatusCode": "ACTV",
+                        "optionSubTypeCode": "SIZE"
+                    },
+                    {
+                        "optionTypeCode": "CLOT",
+                        "optionAbbreviatedCode": "SHADO",
+                        "optionNumber": 1,
+                        "optionDescription": "SHADOW BROWN",
+                        "optionSequenceNumber": 1,
+                        "optionAttributes": {"optionAttribute": [
+                            {
+                                "optionAttributeCode": "ITSA MAJOR COLOR FAMILY",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "PDB COLOR",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "SHADOW BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "PATTERN TYPE",
+                                "optionAttributeRoleCode": "PATTERN TYPE",
+                                "optionAttributeValueCode": "ANIMAL"
+                            },
+                            {
+                                "optionAttributeCode": "PATTERN NAME",
+                                "optionAttributeRoleCode": "PATTERN TYPE",
+                                "optionAttributeValueCode": "ANIMAL"
+                            },
+                            {
+                                "optionAttributeCode": "ITSA MINOR COLOR FAMILY",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "BROWN",
+                                "optionAttributeValuePropertyText": "SHADOW BROWN"
+                            },
+                            {
+                                "optionAttributeCode": "PDB COLOR FAMILY",
+                                "optionAttributeRoleCode": "PRIMARY OPTION",
+                                "optionAttributeValueCode": "BROWN"
+                            }
+                        ]},
+                        "optionStatusCode": "ACTV",
+                        "optionSubTypeCode": "PDB COLOR TYPE"
+                    }
+                ]},
+                "skuDefintion": {
+                    "skuNumber": 174,
+                    "startEffectiveDate": "2024-01-30T00:00:00",
+                    "skuStatusCode": "ACTV",
+                    "skuDescription": "SHADOW BROWN X-LARGE",
+                    "skuStateCode": "ACTV",
+                    "ORINSkuNumber": 129903706
+                },
+                "skuAliases": {"salesChannelAlias": [
+                    {
+                        "aliases": {"alias": [
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "PID",
+                                "itemAliasCode": "IX3722",
+                                "aliasStatusCode": "ACTV"
+                            },
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "UPC",
+                                "itemAliasCode": 197607040680,
+                                "aliasStatusCode": "ACTV"
+                            }
+                        ]},
+                        "channelCode": "STR"
+                    },
+                    {
+                        "aliases": {"alias": [
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "PID",
+                                "itemAliasCode": "IX3722",
+                                "aliasStatusCode": "ACTV"
+                            },
+                            {
+                                "vendor": {
+                                    "vendorTypeCode": "SUPP",
+                                    "vendorNumber": 604
+                                },
+                                "itemAliasType": "UPC",
+                                "itemAliasCode": 197607040680,
+                                "aliasStatusCode": "ACTV"
+                            }
+                        ]},
+                        "channelCode": "DIR"
+                    }
+                ]},
+                "skuChannels": {"channel": [
+                    {
+                        "channelStatusCode": "ACTV",
+                        "channelDescription": "Direct",
+                        "startEffectiveDate": "2024-01-30T00:00:00",
+                        "channelStateCode": "ACTV",
+                        "channelCode": "DIR"
+                    },
+                    {
+                        "channelStatusCode": "ACTV",
+                        "channelDescription": "Stores",
+                        "startEffectiveDate": "2024-01-30T00:00:00",
+                        "channelStateCode": "ACTV",
+                        "channelCode": "STR"
+                    }
+                ]}
+            }
+        ]},
+        "modifier": "new",
+        "itemCycleDates": {"cycleDate": [
+            {
+                "itemCycleDateType": "OOSD",
+                "itemCycleDateValue": "2025-04-15",
+                "channelCode": "STR"
+            },
+            {
+                "itemCycleDateType": "PLOD",
+                "itemCycleDateValue": "2024-12-27",
+                "channelCode": "DIR"
+            },
+            {
+                "itemCycleDateType": "OOSD",
+                "itemCycleDateValue": "2025-04-15",
+                "channelCode": "DIR"
+            },
+            {
+                "itemCycleDateType": "FLSD",
+                "storeSets": {"storeSet": {
+                    "storeGroupDateValue": "2025-01-03",
+                    "season": {
+                        "seasonType": "SPRING TRANSITION",
+                        "mhNumber": 1,
+                        "seasonName": "SPRING TRANSITION",
+                        "mhTypeCode": "DIV",
+                        "seasonFiscalYear": 2024,
+                        "channelCode": "STR"
+                    },
+                    "storeGroupDescription": "ALL",
+                    "storeGroupType": "ALL"
+                }},
+                "channelCode": "STR"
+            }
+        ]},
+        "services": {
+            "serviceDefinition": "",
+            "serviceItems": ""
+        },
+        "itemDefinition": {
+            "itemNumber": 8281186,
+            "itemCreatedDate": "2024-01-30T00:00:00",
+            "startEffectiveDate": "2024-01-30T00:00:00",
+            "itemTypeCode": "RGLR",
+            "alternateItemDescriptions": {"alternateItemDescription": [
+                {
+                    "itemDescriptionType": "NTRL",
+                    "itemDescriptionValue": "ANIMAL 3S LEGGING"
+                },
+                {
+                    "itemDescriptionType": "POS",
+                    "itemDescriptionValue": "ANIMAL 3S LEGGIN"
+                }
+            ]},
+            "itemStatecode": "ACTV",
+            "ORINItemNumber": 129903697,
+            "itemDescription": "ANIMAL 3S LEGGING",
+            "itemStatusCode": "ACTV",
+            "deleteDate": "9999-12-31T00:00:00"
+        },
+        "productHierarchies": {"hierarchy": [
+            {
+                "productHierarchyCode": "APPAREL, SLEEP, UNDER GARMENTS",
+                "productHierarchyName": "APPAREL, SLEEP, UNDER GARMENTS",
+                "productHierarchyTypeCode": "PRDL",
+                "productHierarchyRank": 1
+            },
+            {
+                "productHierarchyCode": "PANTS/BOTTOMS",
+                "productHierarchyName": "PANTS/BOTTOMS",
+                "productHierarchyTypeCode": "PRDT",
+                "productHierarchyRank": 2
+            },
+            {
+                "productHierarchyCode": "LEGGINGS",
+                "productHierarchyName": "LEGGINGS",
+                "productHierarchyTypeCode": "SUBT",
+                "productHierarchyRank": 3
+            },
+            {
+                "productHierarchyCode": "FULL LENGTH LEGGINGS",
+                "productHierarchyName": "FULL LENGTH LEGGINGS",
+                "productHierarchyTypeCode": "ITMT",
+                "productHierarchyRank": 4
+            }
+        ]},
+        "itemMerchandiseHierarchies": {"merchandiseHierarchy": [
+            {
+                "mhNumber": 1,
+                "organizationDescription": "JCP",
+                "mhStartDate": "2024-01-30T03:01:53.000",
+                "mhDescription": "SPECIALTY / ADULT ACTIVE",
+                "organizationTypeCode": "CMPY",
+                "organizationNumber": 1,
+                "mhTypeCode": "DIV",
+                "mhRankNumber": 1
+            },
+            {
+                "mhNumber": 82,
+                "organizationDescription": "JCP",
+                "mhStartDate": "2024-01-30T03:01:53.000",
+                "mhDescription": "WOMENS ACTIVE",
+                "organizationTypeCode": "CMPY",
+                "organizationNumber": 1,
+                "mhTypeCode": "ENT",
+                "mhRankNumber": 2
+            },
+            {
+                "mhNumber": 828,
+                "organizationDescription": "JCP",
+                "mhStartDate": "2024-01-30T03:01:53.000",
+                "mhDescription": "ADIDAS",
+                "organizationTypeCode": "DEPT",
+                "organizationNumber": 1,
+                "mhTypeCode": "SUB",
+                "mhRankNumber": 3
+            },
+            {
+                "mhNumber": 6508,
+                "organizationDescription": "JCP",
+                "mhStartDate": "2024-01-30T03:01:53.000",
+                "mhDescription": "BOTTOMS",
+                "organizationTypeCode": "DEPT",
+                "organizationNumber": 1,
+                "mhTypeCode": "CLS",
+                "mhRankNumber": 4
+            },
+            {
+                "mhNumber": 6508,
+                "organizationDescription": "JCP",
+                "mhStartDate": "2024-01-30T03:01:53.000",
+                "mhDescription": "BOTTOMS",
+                "organizationTypeCode": "DEPT",
+                "organizationNumber": 1,
+                "mhTypeCode": "SUBCLASS",
+                "mhRankNumber": 5
+            }
+        ]},
+        "itemAdditionalAttributes": {"attribute": {
+            "attributeCode": "ITEM SOURCE",
+            "attributeValues": {"attributeValue": {"valueCode": "RMS"}}
+        }},
+        "itemOptions": {"option": [
+            {
+                "optionTypeCode": "CLOT",
+                "optionChannels": {"channel": [
+                    {
+                        "channelStatusCode": "ACTV",
+                        "channelDescription": "Direct",
+                        "startEffectiveDate": "1962-10-01T00:00:00",
+                        "channelStateCode": "ACTV",
+                        "channelCode": "DIR"
+                    },
+                    {
+                        "channelStatusCode": "ACTV",
+                        "channelDescription": "Stores",
+                        "startEffectiveDate": "1962-10-01T00:00:00",
+                        "channelStateCode": "ACTV",
+                        "channelCode": "STR"
+                    }
+                ]},
+                "optionAbbreviatedCode": "SHADO",
+                "optionNumber": 1,
+                "optionDescription": "SHADOW BROWN",
+                "optionSequenceNumber": 1,
+                "optionStatusCode": "ACTV",
+                "optionStateCode": "ACTV",
+                "optionSubTypeCode": "PDB COLOR TYPE"
+            },
+            {
+                "optionTypeCode": "SIZT",
+                "optionNumber": 6,
+                "optionStandardValueCode": 115,
+                "optionDescription": "SMALL",
+                "optionSequenceNumber": 6,
+                "optionAttributes": {"optionAttribute": {
+                    "optionAttributeAbbreviatedCode": "S",
+                    "optionAttributeCode": 416,
+                    "optionAttributeLabelText": "SIZE",
+                    "optionAttributeRoleCode": "SIZE1",
+                    "optionAttributeValueCode": 115,
+                    "optionAttributeValuePropertyText": "SMALL"
+                }}
+            },
+            {
+                "optionTypeCode": "SIZT",
+                "optionNumber": 7,
+                "optionStandardValueCode": 116,
+                "optionDescription": "MEDIUM",
+                "optionSequenceNumber": 7,
+                "optionAttributes": {"optionAttribute": {
+                    "optionAttributeAbbreviatedCode": "M",
+                    "optionAttributeCode": 416,
+                    "optionAttributeLabelText": "SIZE",
+                    "optionAttributeRoleCode": "SIZE1",
+                    "optionAttributeValueCode": 116,
+                    "optionAttributeValuePropertyText": "MEDIUM"
+                }}
+            },
+            {
+                "optionTypeCode": "SIZT",
+                "optionNumber": 8,
+                "optionStandardValueCode": 117,
+                "optionDescription": "LARGE",
+                "optionSequenceNumber": 8,
+                "optionAttributes": {"optionAttribute": {
+                    "optionAttributeAbbreviatedCode": "L",
+                    "optionAttributeCode": 416,
+                    "optionAttributeLabelText": "SIZE",
+                    "optionAttributeRoleCode": "SIZE1",
+                    "optionAttributeValueCode": 117,
+                    "optionAttributeValuePropertyText": "LARGE"
+                }}
+            },
+            {
+                "optionTypeCode": "SIZT",
+                "optionNumber": 9,
+                "optionStandardValueCode": 118,
+                "optionDescription": "X-LARGE",
+                "optionSequenceNumber": 9,
+                "optionAttributes": {"optionAttribute": {
+                    "optionAttributeAbbreviatedCode": "XL",
+                    "optionAttributeCode": 416,
+                    "optionAttributeLabelText": "SIZE",
+                    "optionAttributeRoleCode": "SIZE1",
+                    "optionAttributeValueCode": 118,
+                    "optionAttributeValuePropertyText": "X-LARGE"
+                }}
+            }
+        ]},
+        "modifiedDateTime": "2024-01-30T15:20:20.000",
+        "itemChannels": {"channel": [
+            {
+                "channelStatusCode": "ACTV",
+                "channelDescription": "Stores",
+                "startEffectiveDate": "2024-01-30T00:00:00",
+                "channelStateCode": "ACTV",
+                "channelCode": "STR"
+            },
+            {
+                "channelStatusCode": "ACTV",
+                "channelDescription": "Direct",
+                "startEffectiveDate": "2024-01-30T00:00:00",
+                "channelStateCode": "ACTV",
+                "channelCode": "DIR"
+            }
+        ]},
+        "itemVendors": {"itemVendor": [
+            {
+                "changeTimestamp": "2024-01-30T03:01:53.000",
+                "vendorTypeCode": "SUPP",
+                "vendorStatus": "ACTV",
+                "primaryVendorInd": false,
+                "vendorRoleCode": "EDI",
+                "vendorNumber": 604,
+                "vendorName": "ADIDAS DISTRIBUTING *",
+                "shipPoints": {"shipPoint": {
+                    "shipPoint": 60416,
+                    "shippingOptionCode": "S",
+                    "shipPointType": "SUPP",
+                    "factoryShipLeadTimeUOM": "WEEKS",
+                    "factoryShipLeadTimeQty": 0
+                }},
+                "channelCode": "DIR",
+                "createTimestamp": "2024-01-30T03:01:53.000"
+            },
+            {
+                "changeTimestamp": "2024-01-30T03:01:53.000",
+                "vendorTypeCode": "SUPP",
+                "vendorStatus": "ACTV",
+                "primaryVendorInd": true,
+                "vendorRoleCode": "DFLT",
+                "vendorNumber": 604,
+                "vendorName": "ADIDAS DISTRIBUTING *",
+                "shipPoints": {"shipPoint": {
+                    "shipPoint": 60416,
+                    "shippingOptionCode": "S",
+                    "shipPointType": "SUPP",
+                    "factoryShipLeadTimeUOM": "WEEKS",
+                    "factoryShipLeadTimeQty": 0
+                }},
+                "channelCode": "DIR",
+                "createTimestamp": "2024-01-30T03:01:53.000"
+            },
+            {
+                "changeTimestamp": "2024-01-30T03:01:53.000",
+                "vendorTypeCode": "SUPP",
+                "vendorStatus": "ACTV",
+                "primaryVendorInd": false,
+                "vendorRoleCode": "CHBK",
+                "vendorNumber": 604,
+                "vendorName": "ADIDAS DISTRIBUTING *",
+                "shipPoints": {"shipPoint": {
+                    "shipPoint": 60416,
+                    "shippingOptionCode": "S",
+                    "shipPointType": "SUPP",
+                    "factoryShipLeadTimeUOM": "WEEKS"
+                }},
+                "channelCode": "STR",
+                "createTimestamp": "2024-01-30T03:01:53.000"
+            },
+            {
+                "changeTimestamp": "2024-01-30T03:01:53.000",
+                "vendorTypeCode": "SUPP",
+                "vendorStatus": "ACTV",
+                "primaryVendorInd": false,
+                "vendorRoleCode": "CHBK",
+                "vendorNumber": 604,
+                "vendorName": "ADIDAS DISTRIBUTING *",
+                "shipPoints": {"shipPoint": {
+                    "shipPoint": 60416,
+                    "shippingOptionCode": "S",
+                    "shipPointType": "SUPP",
+                    "factoryShipLeadTimeUOM": "WEEKS",
+                    "factoryShipLeadTimeQty": 0
+                }},
+                "channelCode": "DIR",
+                "createTimestamp": "2024-01-30T03:01:53.000"
+            },
+            {
+                "changeTimestamp": "2024-01-30T03:01:53.000",
+                "vendorTypeCode": "SUPP",
+                "vendorStatus": "ACTV",
+                "primaryVendorInd": false,
+                "vendorRoleCode": "EDI",
+                "vendorNumber": 604,
+                "vendorName": "ADIDAS DISTRIBUTING *",
+                "shipPoints": {"shipPoint": {
+                    "shipPoint": 60416,
+                    "shippingOptionCode": "S",
+                    "shipPointType": "SUPP",
+                    "factoryShipLeadTimeUOM": "WEEKS"
+                }},
+                "channelCode": "STR",
+                "createTimestamp": "2024-01-30T03:01:53.000"
+            },
+            {
+                "changeTimestamp": "2024-01-30T03:01:53.000",
+                "vendorTypeCode": "SUPP",
+                "vendorStatus": "ACTV",
+                "primaryVendorInd": true,
+                "USStates": {"USState": "AA"},
+                "vendorRoleCode": "DFLT",
+                "vendorNumber": 604,
+                "vendorName": "ADIDAS DISTRIBUTING *",
+                "shipPoints": {"shipPoint": {
+                    "shipPoint": 60416,
+                    "shippingOptionCode": "S",
+                    "shipPointType": "SUPP",
+                    "factoryShipLeadTimeUOM": "WEEKS"
+                }},
+                "channelCode": "STR",
+                "createTimestamp": "2024-01-30T03:01:53.000"
+            }
+        ]},
+        "itemAttributeTypes": {
+            "itemSalesChannelAttributeType": {
+                "attributeTypeCode": "SCHL",
+                "salesChannelAttributes": [
+                    {
+                        "salesChannelCode": "DIR",
+                        "attributes": {"attribute": [
+                            {
+                                "attributeCode": "CONTINENTAL PREPAID",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": 0,
+                                    "valueAbbrCode": 0
+                                }},
+                                "attributeName": "CONTINENTAL PREPAID"
+                            },
+                            {
+                                "attributeCode": "FACTORY SHIP LMTD INV IND",
+                                "attributeValues": {"attributeValue": {"valueCode": "Y"}},
+                                "attributeName": "FACTORY SHIP LMTD INV IND"
+                            },
+                            {
+                                "attributeCode": "INTERNATIONAL SHIP",
+                                "attributeValues": {"attributeValue": {"valueCode": "Y"}},
+                                "attributeName": "INTERNATIONAL SHIP"
+                            },
+                            {
+                                "attributeCode": "LOTSUFFIX",
+                                "attributeValues": {"attributeValue": {"valueCode": "D"}},
+                                "attributeName": "LOTSUFFIX"
+                            },
+                            {
+                                "attributeCode": "MAIL CODE",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": 1,
+                                    "valueAbbrCode": 1
+                                }},
+                                "attributeName": "MAIL CODE"
+                            },
+                            {
+                                "attributeCode": "NON CONTINENTAL PREPAID",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": 0,
+                                    "valueAbbrCode": 0
+                                }},
+                                "attributeName": "NON CONTINENTAL PREPAID"
+                            },
+                            {
+                                "attributeCode": "PACKAGED HEIGHT",
+                                "attributeValues": {"attributeValue": {"valueCode": 4}},
+                                "attributeName": "PACKAGED HEIGHT"
+                            },
+                            {
+                                "attributeCode": "PACKAGED LENGTH",
+                                "attributeValues": {"attributeValue": {"valueCode": 12}},
+                                "attributeName": "PACKAGED LENGTH"
+                            },
+                            {
+                                "attributeCode": "PACKAGED WEIGHT",
+                                "attributeValues": {"attributeValue": {"valueCode": 16}},
+                                "attributeName": "PACKAGED WEIGHT"
+                            },
+                            {
+                                "attributeCode": "PACKAGED WIDTH",
+                                "attributeValues": {"attributeValue": {"valueCode": 12}},
+                                "attributeName": "PACKAGED WIDTH"
+                            },
+                            {
+                                "attributeCode": "PROTECTION PLAN",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": 0,
+                                    "valueAbbrCode": 0
+                                }},
+                                "attributeName": "PROTECTION PLAN"
+                            },
+                            {
+                                "attributeCode": "PURCHASE-TYPE",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": "Fashion",
+                                    "valueAbbrCode": "F"
+                                }},
+                                "attributeName": "PURCHASE-TYPE"
+                            },
+                            {
+                                "attributeCode": "SHIPPING OPTION",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": "SHIP TO/MARK FOR",
+                                    "valueAbbrCode": "S"
+                                }},
+                                "attributeName": "SHIPPING OPTION"
+                            },
+                            {
+                                "attributeCode": "SPECIAL ITEM CODE",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": 0,
+                                    "valueAbbrCode": 0
+                                }},
+                                "attributeName": "SPECIAL ITEM CODE"
+                            },
+                            {
+                                "attributeCode": "SPECIAL PROGRAM TYPE",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": 0,
+                                    "valueAbbrCode": 0
+                                }},
+                                "attributeName": "SPECIAL PROGRAM TYPE"
+                            },
+                            {
+                                "attributeCode": "UNUSUAL DEMAND",
+                                "attributeValues": {"attributeValue": {"valueCode": 8}},
+                                "attributeName": "UNUSUAL DEMAND"
+                            },
+                            {
+                                "attributeCode": "UPS CODE",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": 1,
+                                    "valueAbbrCode": 1
+                                }},
+                                "attributeName": "UPS CODE"
+                            },
+                            {
+                                "attributeCode": "WAREHOUSE CLASS",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": "A",
+                                    "valueAbbrCode": "A"
+                                }},
+                                "attributeName": "WAREHOUSE CLASS"
+                            },
+                            {
+                                "attributeCode": "WARRANTY",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": 0,
+                                    "valueAbbrCode": 0
+                                }},
+                                "attributeName": "WARRANTY"
+                            },
+                            {
+                                "attributeCode": "WILL CALL FACT SHIP",
+                                "attributeValues": {"attributeValue": {"valueCode": 0}},
+                                "attributeName": "WILL CALL FACT SHIP"
+                            },
+                            {
+                                "attributeCode": "XMAS IND",
+                                "attributeValues": {"attributeValue": {"valueCode": "N"}},
+                                "attributeName": "XMAS IND"
+                            }
+                        ]}
+                    },
+                    {
+                        "salesChannelCode": "STR",
+                        "attributes": {"attribute": [
+                            {
+                                "attributeCode": "PURCHASE-TYPE",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": "FASHION",
+                                    "valueAbbrCode": "F"
+                                }},
+                                "attributeName": "PURCHASE-TYPE"
+                            },
+                            {
+                                "attributeCode": "SHIPPING OPTION",
+                                "attributeValues": {"attributeValue": {
+                                    "valueCode": "SHIP TO/MARK FOR",
+                                    "valueAbbrCode": "S"
+                                }},
+                                "attributeName": "SHIPPING OPTION"
+                            }
+                        ]}
+                    }
+                ]
+            },
+            "itemAttributeType": [
+                {
+                    "attributeTypeCode": "PRDA",
+                    "attributes": {"attribute": [
+                        {
+                            "attributeCode": "# PIECES IN SET",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {
+                                "valueCode": "NOT APPLICABLE",
+                                "valueAbbrCode": "NA"
+                            }},
+                            "attributeName": "# PIECES IN SET",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "ACTIVITY",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "GYM + TRAINING"}},
+                            "attributeName": "ACTIVITY",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "ADAPTIVE COLLECTION",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "ADAPTIVE COLLECTION",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "ADAPTIVE FEATURES",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "ADAPTIVE FEATURES",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "AGE GROUP",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "ADULT"}},
+                            "attributeName": "AGE GROUP",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "CARE",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": [
+                                {"valueCode": "MACHINE WASH"},
+                                {"valueCode": "TUMBLE DRY"}
+                            ]},
+                            "attributeName": "CARE",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "CERTS + LISTINGS",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "CERTS + LISTINGS",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "CHARACTER",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "CHARACTER",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "CLOSURE TYPE",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "FULL ELASTIC"}},
+                            "attributeName": "CLOSURE TYPE",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "COLLECTION",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "COLLECTION",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "CONCERNS",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "CONCERNS",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "DISCLAIMERS",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "DISCLAIMERS",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "FABRIC",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "JERSEY"}},
+                            "attributeName": "FABRIC",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "FEATURES",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {
+                                "valueCode": "NOT APPLICABLE",
+                                "valueAbbrCode": "NAP"
+                            }},
+                            "attributeName": "FEATURES",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "FIBER CONTENT",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": [
+                                {
+                                    "valueCode": "COTTON",
+                                    "propertyText": 93
+                                },
+                                {
+                                    "valueCode": "ELASTANE",
+                                    "propertyText": 7
+                                }
+                            ]},
+                            "attributeName": "FIBER CONTENT",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "GIFT STRATEGY",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT A GIFT"}},
+                            "attributeName": "GIFT STRATEGY",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "HANGERS",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NO"}},
+                            "attributeName": "HANGERS",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "INSEAM",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "INSEAM",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "INTENDED GENDER",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "WOMENS"}},
+                            "attributeName": "INTENDED GENDER",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "LEG STYLE",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "LEG STYLE",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "LINING MATERIAL",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "LINING MATERIAL",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "MATERIAL",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "MATERIAL",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "MATERNITY BELLY TYPE",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "MATERNITY BELLY TYPE",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "OCCASION",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "ACTIVE"}},
+                            "attributeName": "OCCASION",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "PHYSICAL DEFECTIVE CODE",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {
+                                "valueCode": "A",
+                                "valueAbbrCode": "ARC"
+                            }},
+                            "attributeName": "PHYSICAL DEFECTIVE CODE",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "POCKETS",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "POCKETS",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "RFID",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "YES"}},
+                            "attributeName": "RFID",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "RISE",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "MID RISE"}},
+                            "attributeName": "RISE",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "SECURITY TAG",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "YES - $40 OR HIGHER"}},
+                            "attributeName": "SECURITY TAG",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "SIZE RANGE",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "MISSES"}},
+                            "attributeName": "SIZE RANGE",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "SPEC OCCASION EVENT",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "SPEC OCCASION EVENT",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "SUPPORT",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "LIGHT SUPPORT"}},
+                            "attributeName": "SUPPORT",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "THEME",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "THEME",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "TRENDS",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NOT APPLICABLE"}},
+                            "attributeName": "TRENDS",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        }
+                    ]}
+                },
+                {
+                    "attributeTypeCode": "COMN",
+                    "attributes": {"attribute": [
+                        {
+                            "attributeCode": "COMMODITY CODE",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": 531015}},
+                            "attributeName": "COMMODITY CODE",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "ENTERPRISE INVENTORY INDI",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NO"}},
+                            "attributeName": "ENTERPRISE INVENTORY INDI",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "FASHION-PYRAMID",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {
+                                "valueCode": "FASHION",
+                                "valueAbbrCode": "F"
+                            }},
+                            "attributeName": "FASHION-PYRAMID",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "HAZMAT FLAG",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "NO"}},
+                            "attributeName": "HAZMAT FLAG",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "LIFESTYLE",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {
+                                "valueCode": "CONTEMPORARY",
+                                "valueAbbrCode": "O"
+                            }},
+                            "attributeName": "LIFESTYLE",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "PLANNING COST",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": 20.25}},
+                            "attributeName": "PLANNING COST",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "PRICE-TIER",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {
+                                "valueCode": "GOOD",
+                                "valueAbbrCode": "G"
+                            }},
+                            "attributeName": "PRICE-TIER",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "PROP65",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": "N"}},
+                            "attributeName": "PROP65",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "RETAIL PRICE",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": 45}},
+                            "attributeName": "RETAIL PRICE",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "TICKET-FORMAT-DESCRIPTION",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {
+                                "valueCode": "CM/SKU",
+                                "valueAbbrCode": "CM/SKU"
+                            }},
+                            "attributeName": "TICKET-FORMAT-DESCRIPTION",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "TICKET-STOCK-NUMBER",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {
+                                "valueCode": "NONE",
+                                "valueAbbrCode": "NONE"
+                            }},
+                            "attributeName": "TICKET-STOCK-NUMBER",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "UNIT-OF-SALE",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {
+                                "valueCode": "EACH",
+                                "valueAbbrCode": "EA"
+                            }},
+                            "attributeName": "UNIT-OF-SALE",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        },
+                        {
+                            "attributeCode": "WEIGHT.COM",
+                            "startEffectiveDate": "2024-01-30T00:00:00",
+                            "attributeValues": {"attributeValue": {"valueCode": 16}},
+                            "attributeName": "WEIGHT.COM",
+                            "endEffectiveDate": "9999-12-31T00:00:00",
+                            "attributeRoleCode": "DFLT"
+                        }
+                    ]}
+                }
+            ]
+        }
+    }},
+    "messageHeader": {
+        "MessageLineage": {
+            "OriginalMessage": {
+                "MessageInstanceID": 1,
+                "MessageName": "Item Event Contingency"
+            },
+            "PreviousMessage": [
+                {
+                    "MessageInstanceID": "9ae77977-0c24-4410-9462-1e53ce359ee7",
+                    "MessageName": "ITSA Webservice Response"
+                },
+                {
+                    "MessageInstanceID": 1,
+                    "MessageName": "Item Event Contingency"
+                }
+            ]
+        },
+        "Timestamp": "2024-01-30T15:53:56.072",
+        "MessageCreator": {
+            "CreatorInstanceId": 1,
+            "CreatorName": "ITSA"
+        },
+        "MessageId": {
+            "MessageInstanceID": 1,
+            "MessageName": "ItemEvent"
+        }
+    }
+}}
